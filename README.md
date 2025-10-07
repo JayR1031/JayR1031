@@ -45,13 +45,12 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-
 ## 🌐 Languages:
 ![English](https://img.shields.io/badge/🇺🇸%20English-Native-blue?style=flat&logo=googletranslate&logoColor=white)
 ![Spanish](https://img.shields.io/badge/🇪🇸%20Spanish-Native-red?style=flat&logo=googletranslate&logoColor=white)
-
 ## 📊 GitHub Activity:
 ![GitHub Activity Map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayR1031&theme=github_dark)
-![GitHub Snake](https://github.com/JayR1031/JayR1031/blob/output/github-snake-dark.svg?palette=github-dark)
+
+![GitHub Snake](https://raw.githubusercontent.com/JayR1031/JayR1031/output/github-contribution-grid-snake.svg)
 
 ## 🔍 [Search My Projects](https://github.com/search?q=user:JayR1031+)
