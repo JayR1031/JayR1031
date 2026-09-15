@@ -1,42 +1,11 @@
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-6A1B9A?style=flat&logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat&logo=json&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-![seaborn](https://img.shields.io/badge/Seaborn-9E9E9E?style=flat) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+# Jay Rodriguez
 
-## 🌐 Languages:
-![🇺🇸 English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8%20English-Native-blue?style=flat&logo=googletranslate&logoColor=white) ![🇪🇸 Spanish](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Spanish-Native-red?style=flat&logo=googletranslate&logoColor=white)
+I build and evaluate LLM systems for regulated industries, where a wrong answer has consequences — and I came to it from the customer's side of the table.
 
-## 📊 GitHub Activity:
-![GitHub Activity Map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayR1031&theme=github_dark)
+- **diGenius AI** — AI Engineer. Zero-to-one enterprise AI platform: RAG over 3,000+ corporate records on LangChain + Azure AI Foundry, 500+ automated deployments.
+- **Puente AI** — Founder. Deployed trade-compliance RAG (LanceDB, Google Cloud Run) for the US–LATAM corridor; testbed for cross-lingual compliance evals.
+- **Background** — Supply-chain degree, six years selling compliance-driven products to regulated buyers.
 
-## 📈 GitHub Metrics & Stats:
+**Now:** MS CS @ Northeastern (2027) · Algoverse AI Research, Fall 2026 — measuring how LLM compliance behavior fails across English, Spanish, and Portuguese.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.classic.svg" alt="GitHub Metrics" width="400">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayR1031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayR1031&theme=tokyonight" alt="GitHub Streak" width="400">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayR1031&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="400">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayR1031&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="800">
-</div>
-
-## 🔍 [Search My Projects](https://github.com/search?q=user:JayR1031+)
+[Portfolio](https://jayrodriguez.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jay-rod/)
